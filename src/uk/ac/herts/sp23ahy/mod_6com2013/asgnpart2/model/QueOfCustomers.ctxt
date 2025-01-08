@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=QueOfCustomers
+comment1.params=
+comment1.target=QueOfCustomers()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=id
+comment4.target=Customer\ findById(java.lang.String)
+comment5.params=customer
+comment5.target=void\ addCustomer(Customer)
+comment6.params=
+comment6.target=java.lang.String\ listDetails()
+comment7.params=
+comment7.target=java.lang.String\ listByID()
+comment8.params=
+comment8.target=java.lang.String\ listByName()
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Log
+comment1.params=
+comment1.target=Log()
+comment2.params=
+comment2.target=Log\ getInstance()
+comment3.params=event
+comment3.target=void\ addEvent(java.lang.String)
+comment4.params=filename
+comment4.target=void\ saveLogToFile(java.lang.String)
+numComments=5
