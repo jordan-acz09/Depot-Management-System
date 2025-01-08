@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MainView
+comment1.params=
+comment1.target=MainView()
+comment2.params=parcels
+comment2.target=void\ setParcelList(java.lang.String)
+comment3.params=customers
+comment3.target=void\ setCustomerQueue(java.lang.String)
+comment4.params=parcel
+comment4.target=void\ setCurrentParcel(java.lang.String)
+numComments=5

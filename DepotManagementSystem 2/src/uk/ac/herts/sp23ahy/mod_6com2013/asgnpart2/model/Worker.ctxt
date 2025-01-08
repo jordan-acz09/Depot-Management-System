@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Worker
+comment0.text=\n\ Worker\ class\ for\ managing\ workers.\n\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=id\ name\ parcelMap
+comment1.target=Worker(java.lang.String,\ java.lang.String,\ Parcelmap)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Worker\n
+comment2.params=
+comment2.target=java.lang.String\ getWorkerName()
+comment3.params=
+comment3.target=java.lang.String\ getWorkerId()
+comment4.params=
+comment4.target=java.lang.String\ getCurrentParcelDetails()
+comment4.text=\n\ Retrieves\ the\ details\ of\ the\ first\ parcel\ in\ the\ map.\n
+comment5.params=
+comment5.target=java.lang.String\ releaseParcel()
+comment6.params=
+comment6.target=Parcel\ getCurrentParcel()
+comment6.text=\n\ Returns\ the\ current\ parcel\ being\ processed.\n
+numComments=7

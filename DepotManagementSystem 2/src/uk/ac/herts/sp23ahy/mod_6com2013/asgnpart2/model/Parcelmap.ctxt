@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Parcelmap
+comment0.text=\n\ Parcelmap\ class\ for\ managing\ parcels.\n\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Parcelmap()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Parcelmap\n\ Initializes\ the\ parcelMap.\n
+comment2.params=parcel
+comment2.target=void\ addParcel(Parcel)
+comment2.text=\n\ Adds\ a\ parcel\ to\ the\ map.\n\ \n\ @param\ parcel\ The\ Parcel\ object\ to\ add.\n
+comment3.params=parcelID
+comment3.target=Parcel\ getParcel(java.lang.String)
+comment3.text=\n\ Retrieves\ a\ parcel\ by\ its\ ID.\n\ \n\ @param\ parcelID\ The\ ID\ of\ the\ parcel\ to\ retrieve.\n\ @return\ The\ Parcel\ object\ with\ the\ given\ ID,\ or\ null\ if\ not\ found.\n
+comment4.params=parcelID
+comment4.target=Parcel\ removeParcel(java.lang.String)
+comment4.text=\n\ Removes\ a\ parcel\ by\ its\ ID.\n\ \n\ @param\ parcelID\ The\ ID\ of\ the\ parcel\ to\ remove.\n\ @return\ The\ removed\ Parcel\ object,\ or\ null\ if\ not\ found.\n
+comment5.params=parcelID
+comment5.target=boolean\ containsParcel(java.lang.String)
+comment5.text=\n\ Checks\ if\ a\ parcel\ exists\ in\ the\ map.\n\ \n\ @param\ parcelID\ The\ ID\ of\ the\ parcel\ to\ check.\n\ @return\ true\ if\ the\ parcel\ exists,\ false\ otherwise.\n
+comment6.params=
+comment6.target=int\ size()
+comment7.params=
+comment7.target=java.lang.String\ displayAllParcels()
+comment7.text=\n\ Displays\ all\ parcels\ in\ the\ map.\n
+comment8.params=
+comment8.target=Parcel\ getFirstParcel()
+comment8.text=\n\ Retrieves\ the\ first\ parcel\ in\ the\ map.\n\ \n\ @return\ The\ first\ Parcel\ object\ in\ the\ map,\ or\ null\ if\ the\ map\ is\ empty.\n
+numComments=9

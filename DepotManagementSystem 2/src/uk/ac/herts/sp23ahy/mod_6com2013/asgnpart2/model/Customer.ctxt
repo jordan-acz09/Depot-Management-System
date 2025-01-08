@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=name\ parcel
+comment1.target=Customer(java.lang.String,\ Parcel)
+comment10.params=obj
+comment10.target=boolean\ equals(java.lang.Object)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment12.params=that
+comment12.target=int\ compareTo(Customer)
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment3.params=firstName
+comment3.target=void\ setFirstName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getLastName()
+comment5.params=lastName
+comment5.target=void\ setLastName(java.lang.String)
+comment6.params=
+comment6.target=Parcel\ getParcel()
+comment7.params=
+comment7.target=Parcel\ getParcelID()
+comment8.params=parcel
+comment8.target=void\ setParcel(Parcel)
+comment9.params=
+comment9.target=int\ hashCode()
+numComments=13

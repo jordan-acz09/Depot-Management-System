@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MainController
+comment1.params=queOfCustomers\ parcelMap\ worker\ mainView
+comment1.target=MainController(src.uk.ac.herts.sp23ahy.mod_6com2013.asgnpart2.model.QueOfCustomers,\ src.uk.ac.herts.sp23ahy.mod_6com2013.asgnpart2.model.Parcelmap,\ src.uk.ac.herts.sp23ahy.mod_6com2013.asgnpart2.model.Worker,\ src.uk.ac.herts.sp23ahy.mod_6com2013.asgnpart2.view.MainView)
+comment2.params=
+comment2.target=void\ updateView()
+numComments=3
